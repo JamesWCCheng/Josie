@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Josie's BBall world.
 
-You can use the [editor on GitHub](https://github.com/JamesWCCheng/Josie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+パパ大好き♡おしゃれな小学3年生でーす☆ (父管理) <br>
+IG: N\A <br>
+Facebook: N\A <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Games
+[[Full Game] 2022.04.10 TIYB 8U Falcons Blue vs Falcons White](Game4_10.md){:target="_blank" rel="noopener"}.<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[Full Game] 2022.03.20 TIYB 8U Falcons Blue vs Falcons White](Game3_20.md){:target="_blank" rel="noopener"}.
 
-```markdown
-Syntax highlighted code block
+## Practice & Misc.
+[Cross Over](https://www.youtube.com/watch?v=rMuSaPIiG58){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rMuSaPIiG58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+[Dribbling Practice](https://www.youtube.com/watch?v=fhWW2io2aic){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhWW2io2aic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
+[Double Hand Dribble](https://www.youtube.com/watch?v=d4NZl-qpv0w){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4NZl-qpv0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+[Carnival Game](https://youtu.be/I7KBuk_an9I){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7KBuk_an9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Bold** and _Italic_ and `Code` text
+## Photos
+[TIYB U8 Game Photos](https://www.facebook.com/media/set/?vanity=TIYB2019&set=a.416894656479831){:target="_blank" rel="noopener"}.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesWCCheng/Josie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## More #0josiezheng
+[#0josiezheng](https://www.facebook.com/hashtag/0josiezheng){:target="_blank" rel="noopener"}.
