@@ -1,0 +1,43 @@
+#background {
+    height: 100%;
+    left: 0;
+    opacity: 0.3;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: -5566;
+}
+
+#background video {
+    position: absolute;
+    top: -1000px;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #7c334f;
+    font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.icon {
+    height: 32px;
+    margin-right: 4px;
+    width: 32px;
+}
+
+.info {
+    left: 100%;
+    position: relative;
+    transition: all 1s;
+}
+
+body {
+    margin: 0;
+    padding: 8px 0 8px 8px;
+    position: relative;
+}
