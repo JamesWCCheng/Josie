@@ -4,6 +4,10 @@
 [2022.04.10 TIYB 8U Falcons Blue vs Falcons White](https://www.youtube.com/watch?v=HXuD6U_oMGw){:target="_blank" rel="noopener"}.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HXuD6U_oMGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Game Highlight
+[2022.04.10 TIYB 8U FALCONS BLUE vs FALCONS WHITE](https://www.youtube.com/watch?v=lbYtDM2AT3A){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lbYtDM2AT3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Clips
 [罰球1分](https://youtu.be/HXuD6U_oMGw?t=432){:target="_blank" rel="noopener"}<br>
 [上籃沒進 X](https://youtu.be/HXuD6U_oMGw?t=605 ){:target="_blank" rel="noopener"}<br>
