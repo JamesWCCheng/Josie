@@ -41,6 +41,6 @@
 [亂投 X](https://youtu.be/HXuD6U_oMGw?t=3635 ){:target="_blank" rel="noopener"}<br>
 
 ### Box Score
-![Image](https://scontent.ftpe1-3.fna.fbcdn.net/v/t39.30808-6/277752921_1180635896041677_1371217418814707314_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=MwlTTuRGAVsAX-aQ4UF&tn=KQSpCIxCHzywiyfj&_nc_ht=scontent.ftpe1-3.fna&oh=00_AT9F6o2DCsGzoOkii2yJrtYfMjWZecmbqb-mg7-sdjQUxA&oe=625B0128)
+![Image](assets/0410score.jpg)
 
-![Image](https://scontent.ftpe1-3.fna.fbcdn.net/v/t39.30808-6/277781160_517338496435446_2752114949403383750_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=dbeb18&_nc_ohc=tebAknG1txAAX-f9E4s&_nc_ht=scontent.ftpe1-3.fna&oh=00_AT_HsihcwzN-7NJ91g6CCkB5NKhwJZZpzvktsxZXl_FTAg&oe=6259C4FB)
+![Image](assets/0410box.jpg)
