@@ -5,8 +5,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cLA_uEjnOBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Game Highlight
-[2022.05.01 TIYB 8U Falcons White vs Falcons White SL](javascript:void(0)){:target="_blank" rel="noopener"}.
-<iframe width="560" height="315" src="javascript:void(0);" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[2022.05.01 TIYB 8U Falcons White vs Falcons White SL](https://www.youtube.com/watch?v=L_eNtcJ_C1U){:target="_blank" rel="noopener"}.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_eNtcJ_C1U;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [Cross over](https://youtube.com/clip/UgkxQ-amQsSOmnW6BG8rL6h8VCrYYJzOc1ev){:target="_blank" rel="noopener"}.
