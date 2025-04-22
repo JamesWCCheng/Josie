@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    max-width: 800px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.game-info {
+    width: 200px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #2c3e50;
+    text-align: center;
+}
+
+.score-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+}
+
+.score-container p {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.next-piece-container, .hold-piece-container {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.next-piece-container h2, .hold-piece-container h2 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+.sound-controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.sound-controls button {
+    flex: 1;
+    margin: 0 5px;
+    font-size: 0.9em;
+    background-color: #27ae60;
+}
+
+.sound-controls button:hover {
+    background-color: #219653;
+}
+
+.sensitivity-control {
+    margin: 15px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sensitivity-control label {
+    margin-right: 10px;
+    font-size: 14px;
+    min-width: 120px;
+}
+
+.sensitivity-control input[type="range"] {
+    flex: 1;
+    min-width: 150px;
+}
+
+.sensitivity-control span {
+    margin-left: 10px;
+    font-weight: bold;
+    min-width: 45px;
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:disabled {
+    background-color: #95a5a6;
+    cursor: not-allowed;
+}
+
+.keys-info {
+    padding: 10px;
+    background-color: #ecf0f1;
+    border-radius: 5px;
+}
+
+.keys-info h3 {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.keys-info p {
+    margin-bottom: 5px;
+}
+
+.game-container {
+    border: 2px solid #2c3e50;
+    background-color: #222;
+}
+
+#game-board {
+    display: block;
+}
+
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .game-info {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .next-piece-container {
+        margin: 20px 0;
+    }
+}
